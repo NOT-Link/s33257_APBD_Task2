@@ -1,7 +1,5 @@
 using Tutorial3.Enums;
 
-namespace Tutorial3.Models;
-
 public abstract class Equipment
 {
     private static int _nextId = 1;
